@@ -1,0 +1,30 @@
+h1 {
+    font-size: xx-large;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+
+}
+
+h2 {
+    font-size: x-large;
+     position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+}
+
+p {
+    
+    font-size: large;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+}
+
+button {
+    
+    font-size: large;
+}
